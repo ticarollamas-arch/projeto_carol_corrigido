@@ -1,0 +1,6 @@
+{
+  "name": "ZipToGit - Zip to GitHub Publisher",
+  "description": "Anexe arquivos ZIP e envie instantaneamente para repositórios GitHub com criação automática, filtro de arquivos e commits diretos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
